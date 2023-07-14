@@ -1,0 +1,44 @@
+[
+  {
+    "assetId": "Musa Olusegun",
+    "assetType": "Cash",
+    "author": "John Doe",
+    "location": "Lagos",
+    "createdDate": "17/04/2023"
+  },
+  {
+    "assetId": "Musa Olusegun",
+    "assetType": "Real Estate",
+    "author": "John Doe",
+    "location": "Kano",
+    "createdDate": "17/04/2023"
+  },
+  {
+    "assetId": "Musa Olusegun",
+    "assetType": "Real Estate",
+    "author": "John Doe",
+    "location": "Kano",
+    "createdDate": "17/04/2023"
+  },
+  {
+    "assetId": "Musa Olusegun",
+    "assetType": "Firearms",
+    "author": "John Doe",
+    "location": "Abuja",
+    "createdDate": "17/04/2023"
+  },
+  {
+    "assetId": "Musa Olusegun",
+    "assetType": "Weapons",
+    "author": "John Doe",
+    "location": "Lagos",
+    "createdDate": "17/04/2023"
+  },
+  {
+    "assetId": "Musa Olusegun",
+    "assetType": "Cash",
+    "author": "John Doe",
+    "location": "Anambra",
+    "createdDate": "17/04/2023"
+  }
+]

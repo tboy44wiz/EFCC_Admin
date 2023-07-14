@@ -1,0 +1,116 @@
+{
+  "UserDetailTable": [
+    {
+      "agentId": "NGFCC-718217",
+      "userName": "Balogun Joseph",
+      "userImage": "src/assets/images/user_image.png",
+      "userEmail": "balogun@agency.com",
+      "userType": "Top Level Administrator",
+      "phoneNumber": "08012343231",
+      "userCreationDate": "17/04/2023"
+    },
+    {
+      "agentId": "NGFCC-718237",
+      "userName": "Musa Bawa",
+      "userImage": "src/assets/images/user_image.png",
+      "userEmail": "musa@agency.com",
+      "userType": "Low Level Administrator",
+      "phoneNumber": "08162343231",
+      "userCreationDate": "14/04/2023"
+    },
+    {
+      "agentId": "NGFCC-717637",
+      "userName": "Baba Hassan",
+      "userImage": "src/assets/images/user_image.png",
+      "userEmail": "hassan@agency.com",
+      "userType": "Top Level Administrator",
+      "phoneNumber": "08132643231",
+      "userCreationDate": "14/04/2023"
+    },
+    {
+      "agentId": "NGFCC-717637",
+      "userName": "Njoku Edward",
+      "userImage": "src/assets/images/user_image.png",
+      "userEmail": "njoku@agency.com",
+      "userType": "Mid Level Administrator",
+      "phoneNumber": "08162335231",
+      "userCreationDate": "14/04/2023"
+    },
+    {
+      "agentId": "NGFCC-717637",
+      "userName": "Njoku Edward",
+      "userImage": "src/assets/images/user_image.png",
+      "userEmail": "edward@agency.com",
+      "userType": "Mid Level Administrator",
+      "phoneNumber": "08162335231",
+      "userCreationDate": "14/04/2023"
+    },
+    {
+      "agentId": "NGFCC-718217",
+      "userName": "Balogun Joseph",
+      "userImage": "src/assets/images/user_image.png",
+      "userEmail": "joseph@agency.com",
+      "userType": "Top Level Administrator",
+      "phoneNumber": "08012343231",
+      "userCreationDate": "17/04/2023"
+    },
+    {
+      "agentId": "NGFCC-718237",
+      "userName": "Musa Bawa",
+      "userImage": "src/assets/images/user_image.png",
+      "userEmail": "bawa@agency.com",
+      "userType": "Low Level Administrator",
+      "phoneNumber": "08162343231",
+      "userCreationDate": "14/04/2023"
+    },
+    {
+      "agentId": "NGFCC-717637",
+      "userName": "Baba Hassan",
+      "userImage": "src/assets/images/user_image.png",
+      "userEmail": "baba@agency.com",
+      "userType": "Top Level Administrator",
+      "phoneNumber": "08132643231",
+      "userCreationDate": "14/04/2023"
+    },
+    {
+      "agentId": "NGFCC-717637",
+      "userName": "Njoku Edward",
+      "userImage": "src/assets/images/user_image.png",
+      "userEmail": "edward@agency.com",
+      "userType": "Mid Level Administrator",
+      "phoneNumber": "08162335231",
+      "userCreationDate": "14/04/2023"
+    },
+    {
+      "agentId": "NGFCC-717637",
+      "userName": "Njoku Edward",
+      "userImage": "src/assets/images/user_image.png",
+      "userEmail": "bala@agency.com",
+      "userType": "Mid Level Administrator",
+      "phoneNumber": "08162335231",
+      "userCreationDate": "14/04/2023"
+    }
+  ],
+  "UserActivityTable": [
+    {
+      "action": "User logged into dashboard",
+      "remark": "Successful",
+      "dateTime": "2023-07-13T13:59:29.930Z"
+    },
+    {
+      "action": "User uploaded a pending asset on their interim forfeiture dashboard",
+      "remark": "Successful",
+      "dateTime": "2023-07-13T13:59:29.930Z"
+    },
+    {
+      "action": "User updated status of the EKA Drug Pending asset and input pictorial information",
+      "remark": "Successful",
+      "dateTime": "2023-07-13T13:59:29.930Z"
+    },
+    {
+      "action": "User logged into dashboard",
+      "remark": "Successful",
+      "dateTime": "2023-07-13T13:59:29.930Z"
+    }
+  ]
+}
